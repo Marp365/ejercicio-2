@@ -1,3 +1,5 @@
+Crea un programa que llene un arreglo con 100 números enteros aleatorios entre 1 y 500. Luego, utiliza estructuras de control para identificar y mostrar cuántos de esos números son primos.
+
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
